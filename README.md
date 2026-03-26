@@ -1,16 +1,46 @@
-# React + Vite
+# JUDUL KARYA
+TECHLITERASI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Institusi
+Universitas Muhammadiyah Tasikmalaya
 
-Currently, two official plugins are available:
+## Anggota Tim
+- **Ketua**: Fawaz Muhammad Sabiq
+- **Anggota 1**: Rafi Fathan Gandari
+- **Anggota 2**: Mustafa Bilal
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Deskripsi Karya
+*Latar Belakang:* Di era modern saat ini, pelajar dan masyarakat sangat rentan terhadap ancaman siber seperti serangan phising, pencurian data, hingga penyebaran misinformasi (hoaks). Hal ini terjadi karena masih rendahnya tingkat literasi dan kesadaran keamanan digital. Di sisi lain, metode edukasi konvensional seringkali terasa kaku, teoritis, dan kurang diminati oleh generasi muda.
 
-## React Compiler
+*Tujuan:* Techliterasi dibangun untuk menghadirkan platform edukasi literasi digital yang interaktif, modern, dan menyenangkan. Menggunakan pendekatan Gamifikasi (sistem Level, XP, dan Unlockable Missions), aplikasi ini bertujuan untuk mengubah cara pelajar mempelajari keamanan siber menjadi layaknya menyelesaikan misi dalam sebuah game.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*Manfaat:* 1. Memberikan simulasi kasus dunia nyata (seperti mengenali email scam atau berita hoaks) agar pengguna bisa berlatih mengambil keputusan yang aman di internet.
+2. Meningkatkan engagement belajar melalui desain antarmuka yang modern, dinamis, dan responsif.
+3. Menciptakan generasi digital yang lebih kritis, beretika (terutama dalam penggunaan AI), dan sadar akan jejak digital mereka.
 
-## Expanding the ESLint configuration
+*Pemilihan Subtema:* Inovasi Teknologi Pendidikan / Literasi Digital (Catatan: Hapus bagian kurung ini dan sesuaikan nama subtemanya dengan buku panduan TECHSOFT 2026 yang kalian pilih).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Link Website
+https://techliterasi.my.id/
+
+## Teknologi Stack
+- React + Vite
+- Tailwind CSS
+- Framer Motion (animations)
+- React Router (routing)
+- Swiper.js (sliders)
+
+## Cara Menjalankan
+```bash
+npm install
+npm run dev
+```
+
+## Fitur
+- Platform edukasi literasi digital interaktif
+- Misi belajar gamified dengan XP system
+- Dark/Light mode
+- Responsive design
+- Form kontak (Web3Forms)
+
+© 2026 Universitas Muhammadiyah Tasikmalaya - AHA TEAM
